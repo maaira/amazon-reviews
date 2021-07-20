@@ -17,8 +17,14 @@ O dataset da Amazon possui um registro de mais de 500.000 mil reviews da amazon
 |Summary| Resumo da avaliação|
 |Text| Avaaliação|
 
-## Bibliotecas usadas
+## Data includes:
 
+Reviews de Oct 1999 - Oct 2012
+568,454 reviews
+256,059 usuarios
+74,258 produtos
+
+## Bibliotecas usadas
 
 - Python 
 - Aequitas 
