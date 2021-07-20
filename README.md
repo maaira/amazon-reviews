@@ -6,7 +6,7 @@ Este conjunto de dados consiste em reviews de alimentos finos da Amazon. Os dado
 ## Caracteristicas do Dataset
 
 O dataset da Amazon possui um registro de mais de 500.000 mil reviews da amazon
-### Dados Gerais
+### Descrição do Dataset
 | Nome da variável | Conteudo |
 | ------ | ------ |
 | Id | Id da Transação |
